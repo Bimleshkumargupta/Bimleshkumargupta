@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning on MERN 
 - 💞️ I’m looking to collaborate on wed development projects
-- 📫 How to reach me by @bimleshkumargupta450@gmail.com
+- 📫 How to reach me by https://www.linkedin.com/in/bimlesh50/
 
 <!---
 Bimleshkumargupta/Bimleshkumargupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
