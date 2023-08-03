@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bimleshkumargupta
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning on myself 
-- 💞️ I’m looking to collaborate on  MERN
+- 🌱 I’m currently learning on MERN 
+- 💞️ I’m looking to collaborate on wed development projects
 - 📫 How to reach me by @bimleshkumargupta450@gmail.com
 
 <!---
