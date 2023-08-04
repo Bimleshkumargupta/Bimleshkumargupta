@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bimleshkumargupta
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning on MERN 
-- 💞️ I’m looking to collaborate on wed development projects
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me by https://www.linkedin.com/in/bimlesh50/
 
 <!---
